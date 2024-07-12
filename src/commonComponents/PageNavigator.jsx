@@ -20,7 +20,7 @@ export default function PageNavigator() {
             />
           </picture>
         </div>
-        <div className="text-white pb-12 flex flex-col gap-9">
+        <div className="text-white pb-24 flex flex-col gap-10">
           <span className="text-3xl cursor-pointer">
             <VscHome />
           </span>
