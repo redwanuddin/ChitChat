@@ -14,11 +14,14 @@ export default function PageNavigator() {
         <div className="pt-6">
           <picture>
             <img
-              className="w-14 h-14 cursor-pointer hover:bg-black bg-transparent"
+              className="w-14 rounded-full h-14 cursor-pointer relative profileHover"
               src={imgProfile}
               alt={"Image not found"}
             />
           </picture>
+          <span className="text-white absolute top-20 left-[70px] hidden">
+            <FaCloudUploadAlt />
+          </span>
         </div>
         <div className="text-white pb-24 flex flex-col gap-10">
           <span className="text-3xl cursor-pointer">

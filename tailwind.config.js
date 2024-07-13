@@ -6,6 +6,7 @@ export default {
       colors: {
         colorPrimaryBlue: "#5F35F5",
         colorAccentYellow: "#EA6C00",
+        colorPrimaryTextDarkBlue: "#11175D",
       },
 
       fontFamily: {
