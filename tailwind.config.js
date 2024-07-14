@@ -12,7 +12,7 @@ export default {
       fontFamily: {
         poppins: ["Poppins", "san-serif"],
         nunito: ["Nunito", "san-serif"],
-        openSan: ["Open San", "san-serif"],
+        openSans: ["Open Sans", "san-serif"],
       },
     },
   },
